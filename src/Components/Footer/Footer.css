@@ -1,0 +1,59 @@
+.footermain{
+    margin-top: 70px;
+    height: 240px;
+}
+
+.ftop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.f2{
+    margin-top: -13px;
+}
+
+.fmid{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 8vh;
+    text-align: center;
+}
+
+.f3{
+    margin-top: -13px;
+}
+
+#fip{
+    padding-left: 10px;
+    height: 30px;
+    width: 250px;
+    background-color: #F4F4F4;
+}
+
+#sub{
+    margin-left: -75px;
+    height: 34px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.flast{
+    margin-top: 30px;
+}
+
+.fbot{
+    display: flex;
+    flex-direction: row;
+    margin-left: 170px;
+    margin-top: 20px;
+}
+
+.fbot1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 800px;
+    gap: 4vh;
+}

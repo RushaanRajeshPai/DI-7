@@ -1,0 +1,54 @@
+.navbarmain{
+    display: flex;
+    flex-direction: row;
+}
+
+.navleft{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.navp{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 5vh;
+    margin-left: 80px;
+    margin-top: -8px;
+}
+
+.navright{
+    margin-left: 580px;
+    margin-top: 30px;
+}
+
+#logbtn{
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+    background-color: #BABABA;
+    color: #0D0D0D;
+}
+
+#signbtn{
+    height: 30px;
+    width: 90px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background: linear-gradient(120deg, #63F0BE, #3C434D, #0D0D0D);
+    color: white;
+}
+
+#logbtn:hover,#signbtn:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+#navp1:hover,#navp2:hover,#navp3:hover,#navp4:hover,#navp5:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: 500;
+}

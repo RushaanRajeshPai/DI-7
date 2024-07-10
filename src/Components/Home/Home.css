@@ -1,0 +1,60 @@
+.homemain{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5vh;
+    margin-top: 100px;
+}
+
+#fast{
+    margin-left: 35px;
+    margin-top: -200px;
+    z-index: 1;
+    position: relative;
+}
+
+#right{
+    position: relative;
+    z-index: 0;
+}
+
+#homeh1{
+    font-size: 50px;
+}
+
+.homebig{
+    display: flex;
+    flex-direction: row;
+}
+
+#homep{
+    margin-top: 200px;
+    margin-left: -160px;
+}
+
+.homebtns{
+    display: flex;
+    flex-direction: row;
+    gap: 3vh;
+    margin-top: 30px;
+}
+
+#startbtn{
+    background: linear-gradient(120deg, #63F0BE, #3C434D, #0D0D0D);
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 110px;
+}
+
+#video{
+    margin-top: 6px;
+}
+
+.homeleft{
+    margin-top: 50px;
+}
+
+#stars{
+    margin-top: 40px;
+}

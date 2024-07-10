@@ -1,0 +1,31 @@
+.numbermain{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-left: 190px;
+    margin-top: 120px;
+}
+
+.numbers{
+    display: flex;
+    flex-direction: row;
+    gap: 5vh;
+}
+
+#numh1{
+    font-size: 30px;
+}
+
+#numh3{
+    margin-top: -25px;
+}
+
+.num2{
+    margin-left: 300px;
+    color: #757575;
+}
+
+#str{
+    margin-top: 25px;
+}
+
